@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/518dba121a6548f083a7744110981345/artifacts
+end_time: 1720731932884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 518dba121a6548f083a7744110981345
+run_name: flawless-swan-43
+run_uuid: 518dba121a6548f083a7744110981345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731928194
+status: 3
+tags: []
+user_id: jack_

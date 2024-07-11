@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/06400cd1abcc4b1390fea7ccc5596ddf/artifacts
+end_time: 1720730707098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06400cd1abcc4b1390fea7ccc5596ddf
+run_name: judicious-seal-24
+run_uuid: 06400cd1abcc4b1390fea7ccc5596ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720730707019
+status: 4
+tags: []
+user_id: jack_

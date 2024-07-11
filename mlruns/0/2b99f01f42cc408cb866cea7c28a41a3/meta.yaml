@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/2b99f01f42cc408cb866cea7c28a41a3/artifacts
+end_time: 1720730550384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b99f01f42cc408cb866cea7c28a41a3
+run_name: bouncy-squirrel-802
+run_uuid: 2b99f01f42cc408cb866cea7c28a41a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720730550322
+status: 4
+tags: []
+user_id: jack_

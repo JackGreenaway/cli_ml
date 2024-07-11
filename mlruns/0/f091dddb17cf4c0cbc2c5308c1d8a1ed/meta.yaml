@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/f091dddb17cf4c0cbc2c5308c1d8a1ed/artifacts
+end_time: 1720728323526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f091dddb17cf4c0cbc2c5308c1d8a1ed
+run_name: chill-fawn-912
+run_uuid: f091dddb17cf4c0cbc2c5308c1d8a1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720728318251
+status: 3
+tags: []
+user_id: jack_

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/874f2aac6931442bb9eb2027db8e8cff/artifacts
+end_time: 1720731351417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 874f2aac6931442bb9eb2027db8e8cff
+run_name: mysterious-foal-189
+run_uuid: 874f2aac6931442bb9eb2027db8e8cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731351338
+status: 4
+tags: []
+user_id: jack_

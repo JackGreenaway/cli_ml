@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/a747dfba58ad4b1b9c87689223fbf9e4/artifacts
+end_time: 1720730563789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a747dfba58ad4b1b9c87689223fbf9e4
+run_name: welcoming-zebra-154
+run_uuid: a747dfba58ad4b1b9c87689223fbf9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720730558866
+status: 3
+tags: []
+user_id: jack_

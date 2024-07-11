@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/bcdc30d186f648108f2aeccea0e74568/artifacts
+end_time: 1720731260519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcdc30d186f648108f2aeccea0e74568
+run_name: thundering-seal-211
+run_uuid: bcdc30d186f648108f2aeccea0e74568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731260439
+status: 4
+tags: []
+user_id: jack_

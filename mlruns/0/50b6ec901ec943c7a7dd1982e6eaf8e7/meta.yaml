@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/50b6ec901ec943c7a7dd1982e6eaf8e7/artifacts
+end_time: 1720729600787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50b6ec901ec943c7a7dd1982e6eaf8e7
+run_name: bouncy-fly-843
+run_uuid: 50b6ec901ec943c7a7dd1982e6eaf8e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720729595473
+status: 3
+tags: []
+user_id: jack_

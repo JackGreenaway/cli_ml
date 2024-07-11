@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/cb45d7d2457242c3816eedf992c164ee/artifacts
+end_time: 1720730648198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb45d7d2457242c3816eedf992c164ee
+run_name: invincible-fowl-251
+run_uuid: cb45d7d2457242c3816eedf992c164ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720730648073
+status: 4
+tags: []
+user_id: jack_

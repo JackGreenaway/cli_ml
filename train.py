@@ -1,6 +1,6 @@
 import argparse
 import joblib
-import os
+import os, json
 import mlflow
 import mlflow.sklearn
 from sklearn.datasets import load_iris
@@ -21,13 +21,27 @@ def main(args):
         X_train, X_test, y_train, y_test = load_data(args.data_path)
 
         # Log parameters
-        mlflow.log_params(args.hyperparameters)
+        # mlflow.log_params(args.hyperparameters)
 
         # Build model
         model = build_model(args.model_type, args.hyperparameters)
+        
+        model_name = type(model["model"]).__name__ + "_" + mlflow.active_run().info.run_id[-3:]
+        json_filename = f"{model_name}_params.json"
+        json_path = 'model_parameters/' + json_filename  # Example path, adjust as needed
+        
+        with open(json_path, 'w') as f:
+            json.dump({k: str(v) for k, v in model.get_params().items()}, f, indent=4)
+
+        mlflow.log_param("pipeline_steps", model.named_steps)
+        mlflow.log_artifact(json_path, artifact_path=json_filename)
 
         # log model type
-        mlflow.log_param("model", type(model).__name__)
+        model_type = type(model).__name__
+        if model_type == "Pipeline":
+            mlflow.log_param("model", type(model["model"]).__name__)
+        else:
+            mlflow.log_param("model", model_type)
 
         # Train model
         model.fit(X_train, y_train)
@@ -47,10 +61,9 @@ def main(args):
         mlflow.log_metrics(metrics)
 
         # Generate unique model name
-        model_name = type(model).__name__ + "_" + mlflow.active_run().info.run_id[-3:] + ".joblib"
 
         # Save model
-        model_path = os.path.join(args.model_dir, model_name)
+        model_path = os.path.join(args.model_dir, f"{model_name}.joblib")
         save_model(model, model_path)
 
         # Log model

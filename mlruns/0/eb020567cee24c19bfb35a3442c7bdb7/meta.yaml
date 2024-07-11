@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/eb020567cee24c19bfb35a3442c7bdb7/artifacts
+end_time: 1720731344638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb020567cee24c19bfb35a3442c7bdb7
+run_name: redolent-donkey-654
+run_uuid: eb020567cee24c19bfb35a3442c7bdb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731344560
+status: 4
+tags: []
+user_id: jack_

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/eb6838847d144231b742f452e10bee41/artifacts
+end_time: 1720731776091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb6838847d144231b742f452e10bee41
+run_name: bouncy-skink-708
+run_uuid: eb6838847d144231b742f452e10bee41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731776013
+status: 4
+tags: []
+user_id: jack_

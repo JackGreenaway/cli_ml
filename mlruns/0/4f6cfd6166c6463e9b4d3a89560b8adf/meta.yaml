@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/4f6cfd6166c6463e9b4d3a89560b8adf/artifacts
+end_time: 1720730460151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6cfd6166c6463e9b4d3a89560b8adf
+run_name: incongruous-wasp-947
+run_uuid: 4f6cfd6166c6463e9b4d3a89560b8adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720730460073
+status: 4
+tags: []
+user_id: jack_

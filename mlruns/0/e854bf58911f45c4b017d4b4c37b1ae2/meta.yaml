@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/e854bf58911f45c4b017d4b4c37b1ae2/artifacts
+end_time: 1720731746468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e854bf58911f45c4b017d4b4c37b1ae2
+run_name: puzzled-vole-91
+run_uuid: e854bf58911f45c4b017d4b4c37b1ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731746387
+status: 4
+tags: []
+user_id: jack_

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/e5c567260bed4397863229aa9eb9f959/artifacts
+end_time: 1720731086678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5c567260bed4397863229aa9eb9f959
+run_name: dashing-mare-668
+run_uuid: e5c567260bed4397863229aa9eb9f959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731081581
+status: 3
+tags: []
+user_id: jack_

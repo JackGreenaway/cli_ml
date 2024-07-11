@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/d375479f24c048029a8ad0c887302773/artifacts
+end_time: 1720731159728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d375479f24c048029a8ad0c887302773
+run_name: fearless-auk-454
+run_uuid: d375479f24c048029a8ad0c887302773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720731154783
+status: 3
+tags: []
+user_id: jack_
