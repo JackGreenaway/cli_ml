@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/3d63624ad219426cb1cf3df9d9489b84/artifacts
+end_time: 1720727194706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d63624ad219426cb1cf3df9d9489b84
+run_name: crawling-tern-111
+run_uuid: 3d63624ad219426cb1cf3df9d9489b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720727190031
+status: 3
+tags: []
+user_id: jack_

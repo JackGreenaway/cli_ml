@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/1fc5056f9fe641d88f8b2a4da1689e0f/artifacts
+end_time: 1720726060668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc5056f9fe641d88f8b2a4da1689e0f
+run_name: loud-slug-355
+run_uuid: 1fc5056f9fe641d88f8b2a4da1689e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720726060486
+status: 4
+tags: []
+user_id: jack_

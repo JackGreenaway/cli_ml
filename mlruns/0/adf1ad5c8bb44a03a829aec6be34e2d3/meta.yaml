@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/adf1ad5c8bb44a03a829aec6be34e2d3/artifacts
+end_time: 1720725987432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adf1ad5c8bb44a03a829aec6be34e2d3
+run_name: melodic-whale-385
+run_uuid: adf1ad5c8bb44a03a829aec6be34e2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720725987245
+status: 4
+tags: []
+user_id: jack_

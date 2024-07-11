@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/b45fe257a1044767833b957025ba7486/artifacts
+end_time: 1720726338196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45fe257a1044767833b957025ba7486
+run_name: clean-pug-159
+run_uuid: b45fe257a1044767833b957025ba7486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720726333712
+status: 3
+tags: []
+user_id: jack_

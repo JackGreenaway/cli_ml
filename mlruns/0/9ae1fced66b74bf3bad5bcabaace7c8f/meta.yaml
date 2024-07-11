@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/9ae1fced66b74bf3bad5bcabaace7c8f/artifacts
+end_time: 1720726085454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ae1fced66b74bf3bad5bcabaace7c8f
+run_name: debonair-rook-342
+run_uuid: 9ae1fced66b74bf3bad5bcabaace7c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720726080767
+status: 3
+tags: []
+user_id: jack_
