@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/cf43b1aebe89424183aa84065e2b4d0b/artifacts
+end_time: 1720733137350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf43b1aebe89424183aa84065e2b4d0b
+run_name: smiling-dove-522
+run_uuid: cf43b1aebe89424183aa84065e2b4d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720733131630
+status: 3
+tags: []
+user_id: jack_

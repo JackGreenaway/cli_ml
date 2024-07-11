@@ -9,8 +9,8 @@ import string
 def load_data(data_path):
     # For simplicity, we'll use the Iris dataset from sklearn
     # In practice, you would load your dataset from the data_path
-    data = load_breast_cancer()
-    X_train, X_test, y_train, y_test = train_test_split(data.data, data.target, test_size=0.2, random_state=42)
+    X, y = load_breast_cancer(as_frame=True, return_X_y=True)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
     return X_train, X_test, y_train, y_test
 
 def save_model(model, model_path):

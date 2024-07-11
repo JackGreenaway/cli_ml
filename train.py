@@ -1,6 +1,6 @@
 import argparse
 import joblib
-import os, json
+import os, json, re
 import mlflow
 import mlflow.sklearn
 from sklearn.datasets import load_iris
@@ -31,7 +31,7 @@ def main(args):
         json_path = 'model_parameters/' + json_filename  # Example path, adjust as needed
         
         with open(json_path, 'w') as f:
-            json.dump({k: str(v) for k, v in model.get_params().items()}, f, indent=4)
+            json.dump({k: re.sub(" +", " ", str(v).replace("\n", "")) for k, v in model.get_params().items()}, f, indent=4)
 
         mlflow.log_param("pipeline_steps", model.named_steps)
         mlflow.log_artifact(json_path, artifact_path=json_filename)

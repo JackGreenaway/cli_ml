@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/a0bc1628bcee4b7fac6b2b2774753c66/artifacts
+end_time: 1720733080024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0bc1628bcee4b7fac6b2b2774753c66
+run_name: beautiful-stork-222
+run_uuid: a0bc1628bcee4b7fac6b2b2774753c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720733074660
+status: 3
+tags: []
+user_id: jack_

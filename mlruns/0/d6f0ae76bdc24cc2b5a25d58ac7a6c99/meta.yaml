@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/d6f0ae76bdc24cc2b5a25d58ac7a6c99/artifacts
+end_time: 1720733252640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6f0ae76bdc24cc2b5a25d58ac7a6c99
+run_name: welcoming-loon-615
+run_uuid: d6f0ae76bdc24cc2b5a25d58ac7a6c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720733245874
+status: 3
+tags: []
+user_id: jack_
