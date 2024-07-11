@@ -7,12 +7,9 @@ from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from model import build_model
-from utils import load_data, save_model, generate_unique_model_name, increment_experiment_number
+from utils import load_data, save_model
 
 def main(args):
-    # Increment and retrieve experiment number
-    # experiment_number = increment_experiment_number('src/experiment_counter.txt')
-    experiment_number = 1
 
     # Start MLflow run
     with mlflow.start_run():
@@ -50,7 +47,7 @@ def main(args):
         mlflow.log_metrics(metrics)
 
         # Generate unique model name
-        model_name = generate_unique_model_name(args.model_type, experiment_number)
+        model_name = type(model).__name__ + "_" + mlflow.active_run().info.run_id[-3:] + ".joblib"
 
         # Save model
         model_path = os.path.join(args.model_dir, model_name)

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/14f847f322ed4c8f95ee8b6f05557bfb/artifacts
+end_time: 1720727851875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f847f322ed4c8f95ee8b6f05557bfb
+run_name: capricious-boar-3
+run_uuid: 14f847f322ed4c8f95ee8b6f05557bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720727846670
+status: 3
+tags: []
+user_id: jack_
