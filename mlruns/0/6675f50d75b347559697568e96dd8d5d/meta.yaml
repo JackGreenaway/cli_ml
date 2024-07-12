@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/6675f50d75b347559697568e96dd8d5d/artifacts
+end_time: 1720816081706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6675f50d75b347559697568e96dd8d5d
+run_name: orderly-shoat-31
+run_uuid: 6675f50d75b347559697568e96dd8d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720816076543
+status: 3
+tags: []
+user_id: jack_

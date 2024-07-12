@@ -1,0 +1,3 @@
+{'ct': ColumnTransformer(transformers=[('numerical',
+                                 Pipeline(steps=[('scaler', StandardScaler())]),
+                                 <sklearn.compose._column_transformer.make_column_selector object at 0x0000012FC23B6B90>)]), 'model': RandomForestClassifier()}

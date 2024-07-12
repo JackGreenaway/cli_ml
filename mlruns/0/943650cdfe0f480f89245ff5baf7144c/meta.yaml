@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jack_/OneDrive/Coding/cli_ml/mlruns/0/943650cdfe0f480f89245ff5baf7144c/artifacts
+end_time: 1720816030316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943650cdfe0f480f89245ff5baf7144c
+run_name: sincere-slug-638
+run_uuid: 943650cdfe0f480f89245ff5baf7144c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720816030190
+status: 4
+tags: []
+user_id: jack_
